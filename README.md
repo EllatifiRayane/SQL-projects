@@ -1,6 +1,6 @@
 # Here it's a project i've done at school 
 
-This project is aimed to manage the database of a small club of football. 
+This project is aimed to manage the database of a small club of football with SQL(Oracle).
 The database is composed by 7 entities : Adherent, Team, League, Stadium, Opponent, Training and Game.
 
 By managing this database the club can have information about all the activities. 
